@@ -17,4 +17,21 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Muahahaha!" />
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="100dp"
+        android:text="Click Me button1!"
+        tools:ignore="HardcodedText" />
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="250dp"
+        android:text="Click Me button2!"
+        tools:ignore="HardcodedText" />
+
 </RelativeLayout>
